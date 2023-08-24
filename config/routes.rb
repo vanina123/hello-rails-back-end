@@ -3,4 +3,11 @@ Rails.application.routes.draw do
 
   # Defines the root path route ("/")
   # root "articles#index"
+  root "greetings#random"
+
+  resources :greetings, only: [:random], defaults: {format: 'json'} do
+    collection do
+      get :random
+    end
+  end
 end
