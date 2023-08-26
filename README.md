@@ -27,7 +27,7 @@
 
 # 📖 Hello rails back end <a name="about-project"></a>
 
-**Hello rails back end** is a back end application
+**Hello rails back end** is a web application framework written in Ruby. It is a popular choice for developing web applications because it is fast, scalable, and easy to use. RoR provides a number of features that make it well-suited for developing web applications, also it uses an Api that supplies messages to another application called [Hello React Front end](https://github.com/vanina123/hello-react-front-end/pull/1)
 
 ## 🛠 Built With <a name="built-with"></a>
 
