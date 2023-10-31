@@ -4,9 +4,9 @@
 
 # 📗 Table of Contents
 
-- [MyBudget App](#mybudget-app)
+- [hello-rails-back-end](#hello-rails-back-end)
 - [📗 Table of Contents](#-table-of-contents)
-- [📖 MyBudget ](#-mybudget-)
+- [📖 Hello rails back end ](#-railsbackend-)
   - [🛠 Built With ](#-built-with-)
     - [Tech Stack ](#tech-stack-)
     - [Key Features ](#key-features-)
