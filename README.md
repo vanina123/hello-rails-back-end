@@ -99,6 +99,9 @@ rails server
 
 ## 🔭 Future Features <a name="future-features"></a>
 
+- [Add more design]
+- [Add more functionalities]
+
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -116,7 +119,7 @@ Feel free to check the [issues page](../../issues/).
 
 ## ⭐️ Show your support <a name="support"></a>
 
-If you like this project please give it a ⭐️!
+If you like this project please give it a ⭐️ on github
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -124,7 +127,7 @@ If you like this project please give it a ⭐️!
 
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
-I would like to thank Microverse for guiding us during the pratice
+I would like to thank Microverse for guiding us during the pratical
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
