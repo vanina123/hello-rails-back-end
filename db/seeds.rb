@@ -10,9 +10,9 @@
 
 greetings = [
   { message: 'Hi there!, how are you?' },
-  { message: "Hello, am good man what's up?" },
+  { message: "Hello, am good what's up?" },
   { message: 'Fine thanks!, How is Microverse?' },
-  { message: 'Its great on my final capstone now' },
+  { message: 'Its great am on my final capstone now' },
   { message: 'Wow wow great job' }
 
 ]
